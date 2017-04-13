@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         //haha 
 //        nimehek
         //wangyexiugai
+        //看看pull是啥意思
         
     }
 

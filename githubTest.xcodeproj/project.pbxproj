@@ -12,6 +12,7 @@
 		B17BD47D1E9F15F400E6E0B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B17BD47B1E9F15F400E6E0B9 /* Main.storyboard */; };
 		B17BD47F1E9F15F400E6E0B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B17BD47E1E9F15F400E6E0B9 /* Assets.xcassets */; };
 		B17BD4821E9F15F400E6E0B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B17BD4801E9F15F400E6E0B9 /* LaunchScreen.storyboard */; };
+		B17BD48A1E9F55BB00E6E0B9 /* add from local.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17BD4891E9F55BB00E6E0B9 /* add from local.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B17BD47E1E9F15F400E6E0B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B17BD4811E9F15F400E6E0B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B17BD4831E9F15F400E6E0B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B17BD4891E9F55BB00E6E0B9 /* add from local.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "add from local.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B17BD47E1E9F15F400E6E0B9 /* Assets.xcassets */,
 				B17BD4801E9F15F400E6E0B9 /* LaunchScreen.storyboard */,
 				B17BD4831E9F15F400E6E0B9 /* Info.plist */,
+				B17BD4891E9F55BB00E6E0B9 /* add from local.swift */,
 			);
 			path = githubTest;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B17BD48A1E9F55BB00E6E0B9 /* add from local.swift in Sources */,
 				B17BD47A1E9F15F400E6E0B9 /* ViewController.swift in Sources */,
 				B17BD4781E9F15F400E6E0B9 /* AppDelegate.swift in Sources */,
 			);
@@ -300,6 +304,7 @@
 				B17BD4881E9F15F400E6E0B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -24,6 +24,7 @@
 		B17BD4811E9F15F400E6E0B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B17BD4831E9F15F400E6E0B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B17BD4891E9F55BB00E6E0B9 /* add from local.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "add from local.swift"; sourceTree = "<group>"; };
+		B17BD48B1E9F5D9D00E6E0B9 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				B17BD4801E9F15F400E6E0B9 /* LaunchScreen.storyboard */,
 				B17BD4831E9F15F400E6E0B9 /* Info.plist */,
 				B17BD4891E9F55BB00E6E0B9 /* add from local.swift */,
+				B17BD48B1E9F5D9D00E6E0B9 /* Header.h */,
 			);
 			path = githubTest;
 			sourceTree = "<group>";
